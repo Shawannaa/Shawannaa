@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1467953375/photo/sqa-software-quality-assurance-concept-verifying-a-software-meets-the-required-quality.jpg?s=1024x1024&w=is&k=20&c=Gsdp1jOu8ESEb8pk-8eA9iskC8VK9pq2fAzbrQ1xqN4=)
+
 <h1 align="center">Hi 👋, I'm Shawanna Islam</h1>
 <h3 align="center">A passionate SQA Engineer From Bangladesh</h3>
 
